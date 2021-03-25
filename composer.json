@@ -1,0 +1,12 @@
+{
+    "name": "mattstauffer/entirely-for-test-purposes",
+    "require": {
+        "tightenco/collect": "^8.19"
+    },
+    "authors": [
+        {
+            "name": "Matt Stauffer",
+            "email": "matt@tighten.co"
+        }
+    ]
+}
